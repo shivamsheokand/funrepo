@@ -42,4 +42,6 @@ Here are some of the projects I've worked on:
 I'm always open to collaborations, discussions, and new opportunities. Feel free to reach out to me through my website or LinkedIn.
 
 Thanks for stopping by and checking out my work!
+# Go to website
+- 🌐 web: [check it](https://shivamsheokand.github.io/funrepo/) 
 
